@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IH Basic App GitHub/IH Basic App GitHub.csproj" />
+  <Project Path="IH_Basic_App_Core.Tests/IH_Basic_App_Core.Tests.csproj" />
+</Solution>
